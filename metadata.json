@@ -1,0 +1,6 @@
+{
+  "name": "3D RAWING",
+  "description": "Application de dessin 3D dans l'espace avec matériaux PBR, pinceaux personnalisés et inspecteur de traits interactif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
